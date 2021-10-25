@@ -1,6 +1,6 @@
 # Kousuke Arai の GitHub
 
-### 🙆‍♀️ 🙆‍♂️ 🙆‍♀️ 🙆‍  🙆‍♀️ 🙆‍♂️ 🙆‍♀️ 🙆‍  🙆‍♀️ 🙆‍♂️ 🙆‍♀️ 🙆‍♂️
+## URLS
 
 ### [・Qiita](https://qiita.com/miyakooti)
 
@@ -11,5 +11,10 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/miyakooti/posts.svg)](http://qiita.com/miyakooti)
 
-### 🙆‍♀️ 🙆‍♂️ 🙆‍♀️ 🙆‍  🙆‍♀️ 🙆‍♂️ 🙆‍♀️ 🙆‍  🙆‍♀️ 🙆‍♂️ 🙆‍♀️ 🙆‍♂️
+## Doing
 
+- RxSwift
+- MVVM
+- Redux
+- English
+- flutter
