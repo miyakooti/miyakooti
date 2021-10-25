@@ -1,5 +1,3 @@
-# Kousuke Arai の GitHub
-
 ## URLS
 
 ### [・Qiita](https://qiita.com/miyakooti)
