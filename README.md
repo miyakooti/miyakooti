@@ -12,7 +12,7 @@
 ## Doing
 
 - RxSwift
-- MVVM
+- GUI Architecture
 - Redux
 - English
 - flutter
