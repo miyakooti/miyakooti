@@ -14,5 +14,5 @@
 - RxSwift
 - GUI Architecture
 - Redux
-- English
-- flutter
+- English(インターン)
+- flutter(ハッカソン)
