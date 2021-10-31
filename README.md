@@ -11,8 +11,8 @@
 
 ## Doing
 
+- flutter(ハッカソン)
 - RxSwift
 - GUI Architecture
 - Redux
 - English(インターン)
-- flutter(ハッカソン)
