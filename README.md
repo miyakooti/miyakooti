@@ -12,7 +12,7 @@
 ## Doing
 
 - flutter(ハッカソン)
-- RxSwift
+- Redux+Rx
 - GUI Architecture
 - Redux
 - English(インターン)
