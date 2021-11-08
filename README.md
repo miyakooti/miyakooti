@@ -11,8 +11,7 @@
 
 ## Doing
 
-- flutter(ハッカソン)
+- flutter
 - Redux+Rx
-- GUI Architecture
-- Redux
-- English(インターン)
+- GUI Architecture(MVP, MVVM)
+- TOEIC
