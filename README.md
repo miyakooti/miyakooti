@@ -11,7 +11,14 @@
 
 ## Doing
 
+- GUI Architecture(MVP, MVVM)
+
+
+## Scheduled
+
 - flutter
 - Redux+Rx
-- GUI Architecture(MVP, MVVM)
 - TOEIC
+
+## Done
+- flutter（ハッカソンで利用できるレベル）
