@@ -17,7 +17,8 @@
 ## Scheduled
 
 - flutter
-- Redux+Rx
+- Redux
+- Rx
 - TOEIC
 
 ## Done
