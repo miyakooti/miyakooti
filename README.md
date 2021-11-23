@@ -3,7 +3,7 @@
 ### [・Qiita](https://qiita.com/miyakooti)
 
 
-### [・Twitter](https://twitter.com/swikooti)
+### [・Twitter](https://twitter.com/niimaru09)
 
 ### [・Portfolio site](https://miyakooti.github.io/kousuke_portofolio/)
 
