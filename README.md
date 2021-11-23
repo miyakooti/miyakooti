@@ -19,7 +19,7 @@
 - flutter
 - Redux
 - Rx
-- TOEIC
+- TOEIC(over 800)
 
 ## Done
 - flutter（ハッカソンで利用できるレベル）
