@@ -20,6 +20,7 @@
 - Redux
 - Rx
 - TOEIC(over 800)
+- swiftGen
 
 ## Done
 - flutter（ハッカソンで利用できるレベル）
