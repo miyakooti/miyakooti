@@ -21,6 +21,7 @@
 - Rx
 - TOEIC(over 800)
 - swiftGen
+- swiftlint
 
 ## Done
 - flutter（ハッカソンで利用できるレベル）
