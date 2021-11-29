@@ -22,6 +22,7 @@
 - TOEIC(over 800)
 - swiftGen
 - swiftlint
+- clean architecture
 
 ## Done
 - flutter（ハッカソンで利用できるレベル）
