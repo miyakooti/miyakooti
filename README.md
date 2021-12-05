@@ -12,7 +12,6 @@
 
 - GUI Architecture(MVP, MVVM)
 
-
 ## Scheduled
 
 - flutter
