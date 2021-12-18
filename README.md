@@ -10,7 +10,7 @@
 
 ## Doing
 
-- GUI Architecture(MVP, MVVM)
+- GUI Architecture(MVVM)
 
 ## Scheduled
 
@@ -24,3 +24,4 @@
 
 ## Done
 - flutter（ハッカソンで利用できるレベル）
+- GUI Architecture(MVP)
