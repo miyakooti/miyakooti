@@ -23,5 +23,4 @@
 - clean architecture
 
 ## Done
-- flutter（ハッカソンで利用できるレベル）
 - GUI Architecture(MVP)
