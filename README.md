@@ -17,7 +17,7 @@
 - flutter
 - Redux
 - Rx
-- TOEIC(over 800)
+- golang
 - swiftGen
 - swiftlint
 - clean architecture
