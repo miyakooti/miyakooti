@@ -21,6 +21,7 @@
 - swiftGen
 - swiftlint
 - clean architecture
+- 
 
 ## Done
 - GUI Architecture(MVP)
