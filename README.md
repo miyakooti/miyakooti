@@ -1,4 +1,4 @@
-## URLs
+## URL
 
 ### [・Qiita](https://qiita.com/miyakooti)
 
