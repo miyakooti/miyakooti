@@ -10,7 +10,6 @@
 
 
 <!-- ## Doing
-
 - GUI Architecture(MVVM)
 
 ## Scheduled
