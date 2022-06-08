@@ -8,7 +8,6 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/miyakooti/posts.svg)](http://qiita.com/miyakooti)
 
-
 <!-- ## Doing
 - GUI Architecture(MVVM)
 
