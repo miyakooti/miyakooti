@@ -1,10 +1,18 @@
 ## URL
 
-### [・Qiita](https://qiita.com/miyakooti)
+- [Qiita ](https://qiita.com/miyakooti)[![My Qiita posts](https://qiita-badge.apiapi.app/s/miyakooti/posts.svg)](http://qiita.com/miyakooti)
+- [Portfolio site](https://miyakooti.github.io/kousuke_portofolio/)
 
-### [・Portfolio site](https://miyakooti.github.io/kousuke_portofolio/)
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/miyakooti/posts.svg)](http://qiita.com/miyakooti)
+## experiences
+
+| period | company | job | link |
+|:-----------|:------------|:------------|:------------|
+| 2020/2 ~ 2021/4 | NS Group Inc| front-end engineer| |
+| 2021/6 ~ 2022/6 | DIRIGIO Inc| iOS engineer| |
+| 2022/3 ~ 2022/4 | Rakuten Group| application engineer| |
+| 2022/8 ~ 2022/9 | Cookpad Inc| iOS engineer| [qiita](https://qiita.com/miyakooti/private/95d3f815da897a71bf61) |
+| 2022/9 | Teamlab Inc| mobile engineer| |
 
 <!-- ## Doing
 - GUI Architecture(MVVM)
