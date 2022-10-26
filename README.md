@@ -1,3 +1,6 @@
+## Doing
+- flutter勉強中
+
 ## URL
 
 - [Qiita ](https://qiita.com/miyakooti)[![My Qiita posts](https://qiita-badge.apiapi.app/s/miyakooti/posts.svg)](http://qiita.com/miyakooti)
