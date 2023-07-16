@@ -6,6 +6,8 @@
 <!-- - [Portfolio site](https://miyakooti.github.io/kousuke_portofolio/)
  -->
 
+## 🔖 [resume](https://file.notion.so/f/s/bdbe01a0-9990-4fd9-83b8-39e408511bd1/forgit.pdf?id=cf8682ab-9eac-40b3-9bce-67f96c75b236&table=block&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1689588000000&signature=KVr2Rf1BUgKyfuiXwLQbul4Uo_rscvvQhsYP_tiYmeg&downloadName=forgit.pdf)
+
 ## experiences
 
 | period | company | job | link |
