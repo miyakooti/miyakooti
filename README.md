@@ -6,7 +6,7 @@
 <!-- - [Portfolio site](https://miyakooti.github.io/kousuke_portofolio/)
  -->
 
-## 🔖 [resume](https://file.notion.so/f/s/bdbe01a0-9990-4fd9-83b8-39e408511bd1/forgit.pdf?id=cf8682ab-9eac-40b3-9bce-67f96c75b236&table=block&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1689588000000&signature=KVr2Rf1BUgKyfuiXwLQbul4Uo_rscvvQhsYP_tiYmeg&downloadName=forgit.pdf)
+## 🔖 [resume](https://file.notion.so/f/f/0c9e9f17-95c2-4536-b49b-9bb72372e1ec/bdbe01a0-9990-4fd9-83b8-39e408511bd1/forgit.pdf?id=cf8682ab-9eac-40b3-9bce-67f96c75b236&table=block&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1700899200000&signature=0Jky6j7v14ug4350VeyOIxDv3ylT6x2uM3xyyxp2kUQ&downloadName=forgit.pdf)
 
 ## experiences
 
