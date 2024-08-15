@@ -22,7 +22,7 @@
 | 2023/8 | Accenture Inc| consultant  |
 | 2023/9 | SONY Inc| mobile engineer |
 | 2023/12 | NRI | DX engineer |
-| 2025/4 ~ 【FULL TIME】 | Amazon Web Service Inc| Cloud Support Engineer |
+<!-- | 2025/4 ~ 【FULL TIME】 | Amazon Web Service Inc| Cloud Support Engineer | -->
 
 
 
