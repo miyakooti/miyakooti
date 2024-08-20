@@ -21,7 +21,9 @@
 | 2023/4 ~ | Aidemy Inc| customer success, infra engineer |
 | 2023/8 | Accenture Inc| consultant  |
 | 2023/9 | SONY Inc| mobile engineer |
+| 2023/9 ~ 2023/10 | Amazon Web Service Inc | Cloud Engineer |
 | 2023/12 | NRI | DX engineer |
+
 <!-- | 2025/4 ~ 【FULL TIME】 | Amazon Web Service Inc| Cloud Support Engineer | -->
 
 
