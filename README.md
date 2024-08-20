@@ -6,7 +6,7 @@
 <!-- - [Portfolio site](https://miyakooti.github.io/kousuke_portofolio/)
  -->
 
-## 🔖 [resume](https://file.notion.so/f/f/0c9e9f17-95c2-4536-b49b-9bb72372e1ec/bdbe01a0-9990-4fd9-83b8-39e408511bd1/forgit.pdf?id=cf8682ab-9eac-40b3-9bce-67f96c75b236&table=block&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1700899200000&signature=0Jky6j7v14ug4350VeyOIxDv3ylT6x2uM3xyyxp2kUQ&downloadName=forgit.pdf)
+## 🔖 [English Resume here](https://file.notion.so/f/f/0c9e9f17-95c2-4536-b49b-9bb72372e1ec/b79d2ccc-38a6-480a-92f5-529cecf702c7/White_Blue_Simple_Back_End_Engineer_CV_Resume.pdf?table=block&id=c172ee09-8ee5-41cc-a3da-b45f06fc1c1f&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1724256000000&signature=kUcvsjHjJEpxpiJagjZjXXd7P5a3k2zCZcN0hPWIDaI&downloadName=White+Blue+Simple+Back+End+Engineer+CV+Resume.pdf)
 
 ## experiences
 
