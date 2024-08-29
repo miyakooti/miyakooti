@@ -6,7 +6,9 @@
 <!-- - [Portfolio site](https://miyakooti.github.io/kousuke_portofolio/)
  -->
 
-## 🔖 [English Resume here](https://file.notion.so/f/f/0c9e9f17-95c2-4536-b49b-9bb72372e1ec/b79d2ccc-38a6-480a-92f5-529cecf702c7/White_Blue_Simple_Back_End_Engineer_CV_Resume.pdf?table=block&id=c172ee09-8ee5-41cc-a3da-b45f06fc1c1f&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1724256000000&signature=kUcvsjHjJEpxpiJagjZjXXd7P5a3k2zCZcN0hPWIDaI&downloadName=White+Blue+Simple+Back+End+Engineer+CV+Resume.pdf)
+## 🖋️ [linkedIn](https://www.linkedin.com/in/maru087a65253/)
+
+## 🟢 [qiita](https://qiita.com/miyakooti)
 
 ## experiences
 
@@ -30,8 +32,12 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/miyakooti/posts.svg)](http://qiita.com/miyakooti)
 
+## 🔖 [English Resume](https://file.notion.so/f/f/0c9e9f17-95c2-4536-b49b-9bb72372e1ec/b79d2ccc-38a6-480a-92f5-529cecf702c7/White_Blue_Simple_Back_End_Engineer_CV_Resume.pdf?table=block&id=c172ee09-8ee5-41cc-a3da-b45f06fc1c1f&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1724256000000&signature=kUcvsjHjJEpxpiJagjZjXXd7P5a3k2zCZcN0hPWIDaI&downloadName=White+Blue+Simple+Back+End+Engineer+CV+Resume.pdf)
+
+
 <!-- ## Doing
 - GUI Architecture(MVVM)
+
 
 
 
