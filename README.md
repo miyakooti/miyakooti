@@ -20,10 +20,13 @@
 | 2022/8 ~ 2022/9 | Cookpad Inc| iOS engineer| [qiita](https://qiita.com/miyakooti/private/95d3f815da897a71bf61) |
 | 2022/9 | Teamlab Inc| mobile engineer| [qiita](https://qiita.com/miyakooti/private/42b70aaf9c7cd473314e), [presentation](https://drive.google.com/file/d/1YOW9m5tNqCdteA4rgm9QtqODRynIg9sd/view?usp=sharing) |
 | 2022/11 ~ 2023/4| MOSHIMOS Inc| flutter engineer |
-| 2023/4 ~ | Aidemy Inc| customer success, infra engineer |
-<!--| 2023/8 | Accenture Inc| consultant  | -->
-| 2023/9 | SONY Inc| mobile engineer |
+| 2023/4 ~ now | Aidemy Inc | customer success, infra engineer |
+| 2023/9 | SONY Inc | mobile engineer |
 | 2023/9 ~ 2023/10 | Amazon Web Service Inc | Cloud Engineer |
+
+<!--| 2023/8 | Accenture Inc| consultant  | -->
+
+
 <!-- | 2023/12 | NRI | DX engineer |
 
 <!-- | 2025/4 ~ 【FULL TIME】 | Amazon Web Service Inc| Cloud Support Engineer | -->
