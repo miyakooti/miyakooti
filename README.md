@@ -22,7 +22,7 @@
 | 2022/11 ~ 2023/4| MOSHIMOS Inc| flutter engineer |
 | 2023/4 ~ now | Aidemy Inc | customer success, infra engineer |
 | 2023/9 | SONY Inc | mobile engineer |
-| 2023/9 ~ 2023/10 | Amazon Web Service Inc | Cloud Engineer |
+<!--|| 2023/9 ~ 2023/10 | Amazon Web Service Inc | Cloud Engineer | -->
 
 <!--| 2023/8 | Accenture Inc| consultant  | -->
 
@@ -35,7 +35,6 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/miyakooti/posts.svg)](http://qiita.com/miyakooti)
 
-## 🔖 [English Resume](https://file.notion.so/f/f/0c9e9f17-95c2-4536-b49b-9bb72372e1ec/b79d2ccc-38a6-480a-92f5-529cecf702c7/White_Blue_Simple_Back_End_Engineer_CV_Resume.pdf?table=block&id=c172ee09-8ee5-41cc-a3da-b45f06fc1c1f&spaceId=0c9e9f17-95c2-4536-b49b-9bb72372e1ec&expirationTimestamp=1724256000000&signature=kUcvsjHjJEpxpiJagjZjXXd7P5a3k2zCZcN0hPWIDaI&downloadName=White+Blue+Simple+Back+End+Engineer+CV+Resume.pdf)
 
 
 <!-- ## Doing
